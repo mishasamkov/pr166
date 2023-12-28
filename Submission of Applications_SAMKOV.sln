@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Submission of Applications_SAMKOV", "Submission of Applications_SAMKOV.csproj", "{651685DD-E0A4-493D-B544-01AB73BD687C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{651685DD-E0A4-493D-B544-01AB73BD687C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{651685DD-E0A4-493D-B544-01AB73BD687C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{651685DD-E0A4-493D-B544-01AB73BD687C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{651685DD-E0A4-493D-B544-01AB73BD687C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC4C0781-A2DE-4EB0-A1F7-398228BF50D3}
+	EndGlobalSection
+EndGlobal
